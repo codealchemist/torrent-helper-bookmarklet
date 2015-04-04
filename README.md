@@ -20,7 +20,7 @@ Minimize [torrent-helper.bookmarklet.js](https://raw.githubusercontent.com/codea
 Then use this tool to generate the bookmarklet:
 - [Ben Alman Bookmarklet Generator](http://benalman.com/code/test/jquery-run-code-bookmarklet)
 
-Drag and drop the generated bookmarlet to your bookmars bar.
+Drag and drop the generated bookmarlet to your bookmarks bar.
 Have fun!
 
 
