@@ -14,11 +14,11 @@ Doesn't load full UI when loaded more than once.
 - Restyling.
 
 ### Testing
-Use this tool to minize bookmarklet.js:
-[http://jscompress.com](http://jscompress.com)
+Minimize [torrent-helper.bookmarklet.js](https://raw.githubusercontent.com/codealchemist/torrent-helper-bookmarklet/master/torrent-helper.bookmarklet.js) using this tool:
+- [Online Javascript Compression Tool](http://jscompress.com)
 
 Then use this tool to generate the bookmarklet:
-[http://benalman.com/code/test/jquery-run-code-bookmarklet](http://benalman.com/code/test/jquery-run-code-bookmarklet)
+- [Ben Alman Bookmarklet Generator](http://benalman.com/code/test/jquery-run-code-bookmarklet)
 
 Drag and drop the generated bookmarlet to your bookmars bar.
 Have fun!
