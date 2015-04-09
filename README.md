@@ -14,6 +14,9 @@ Doesn't load full UI when loaded more than once.
 - Restyling.
 
 ### Testing
+Copy and run [bookmarklet-generator.js](https://raw.githubusercontent.com/codealchemist/torrent-helper-bookmarklet/master/bookmarklet-generator.js) in your browser's console and drag and drop the generated link to your bookmarks bar.
+
+Or:
 Minimize [torrent-helper.bookmarklet.js](https://raw.githubusercontent.com/codealchemist/torrent-helper-bookmarklet/master/torrent-helper.bookmarklet.js) using this tool:
 - [Online Javascript Compression Tool](http://jscompress.com)
 
