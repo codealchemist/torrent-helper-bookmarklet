@@ -1,5 +1,5 @@
 // BOOKMARKLET GENERATOR
-var scriptUrl = '//raw.githubusercontent.com/codealchemist/torrent-helper-bookmarklet/master/torrent-helper.bookmarklet.js',
+var scriptUrl = '//cdn.rawgit.com/codealchemist/torrent-helper-bookmarklet/master/bookmarklet-generator.js',
 	js="javascript:(function(){ var protocol = location.protocol;var bookmarkletUrl = protocol + scriptUrl;var script = document.createElement('script');script.src = bookmarkletUrl;document.body.appendChild(script); })()";
 	div = document.createElement('div'),
 	style="position:fixed; margin: auto; top: 20px; left:0; right:0; padding: 20px; width: 400px; border: 1px solid #ccc; background: white; border-radius: 5px; color: black;";
