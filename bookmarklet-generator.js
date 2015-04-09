@@ -1,4 +1,3 @@
-<script>
 // BOOKMARKLET GENERATOR
 var script = "var scriptUrl='//cdn.rawgit.com/codealchemist/torrent-helper-bookmarklet/master/torrent-helper.bookmarklet.js';",
 	js="javascript:(function(){ " + script + "var protocol = location.protocol;var bookmarkletUrl = protocol + scriptUrl;var script = document.createElement('script');script.src = bookmarkletUrl;document.body.appendChild(script); })()";
@@ -14,4 +13,3 @@ var html = '' +
 
 div.innerHTML = html;
 document.body.appendChild(div);
-</script>
