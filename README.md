@@ -13,17 +13,14 @@ Doesn't load full UI when loaded more than once.
 - Find a way to get a link name from a torrent.
 - Restyling.
 
-### Testing
-Copy and run [bookmarklet-generator.js](https://raw.githubusercontent.com/codealchemist/torrent-helper-bookmarklet/master/bookmarklet-generator.js) in your browser's console and drag and drop the generated link to your bookmarks bar.
+### How it works?
+Bookmarklets are browser bookmarks that execute code.
+You can easily install bookmarklets by dragging and dropping bookmarklet links to your bookmarks bar.
+You use them by just clicking the bookmark.
+Read more about bookmarklets on the [Wikipedia](http://en.wikipedia.org/wiki/Bookmarklet).
 
-Or:
-Minimize [torrent-helper.bookmarklet.js](https://raw.githubusercontent.com/codealchemist/torrent-helper-bookmarklet/master/torrent-helper.bookmarklet.js) using this tool:
-- [Online Javascript Compression Tool](http://jscompress.com)
-
-Then use this tool to generate the bookmarklet:
-- [Ben Alman Bookmarklet Generator](http://benalman.com/code/test/jquery-run-code-bookmarklet)
-
-Drag and drop the generated bookmarlet to your bookmarks bar.
+### Install
+Use the [install page](https://cdn.rawgit.com/codealchemist/torrent-helper-bookmarklet/master/install.html).
 Have fun!
 
 
